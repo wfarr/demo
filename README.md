@@ -1,3 +1,3 @@
 # demo
 
-This is a demo repository guys.
+This is a cool demo repository guys.
